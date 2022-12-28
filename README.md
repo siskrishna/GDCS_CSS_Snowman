@@ -1,5 +1,5 @@
 # CSS Battle
-"Q.3 Snowman "
+"Q.2 Snowman "
 ## Author
 Name- "Krishna sis Tripathy"
 Branch- "CSE"
